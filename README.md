@@ -5,12 +5,6 @@
 <hr/>
 <h5 align="center">I am a passionate software developer, with my skills wrapping around many languages, however I'm currently working with C# and .Net, as well as SQL  and Flutter Development. In my free time I love to create my personal mini projects, which you should be able to find in my public repositories. Additionaly I have a lot of interests as well! Cars, art, business and finance, are just a few. I am a very curious person, so I tend to have an interest in everything a little bit, sort of jack of all trades. I've got to run now, the coffee pot is boiling hot!<i>☕.oOO.oO</i>. Catch up with me through the links provided below.</h4>
 <br>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
 
 ### 👉 Programming languages
 
