@@ -73,7 +73,7 @@
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
-	<a href="mailto:danils.kubiskins@gmail.com"><img img src="https://cdn-icons-png.flaticon.com/512/25/25236.png" alt="Gmail"/></a>
+	<a href="mailto:danils.kubiskins@gmail.com"><a src="https://cdn-icons-png.flaticon.com/512/25/25236.png" alt="Gmail"/></a>
 	<a href="https://github.com/K-Danils"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/danils-kubiskins/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
