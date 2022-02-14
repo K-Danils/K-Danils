@@ -6,6 +6,14 @@
 <h5 align="center">I am a passionate software developer, with my skills wrapping around many languages, however I'm currently working with C# and .Net, as well as SQL  and I'm very interested with Flutter Development. In my free time I love to create my personal mini projects, which you should be able to find in my public repositories. Additionaly I have a lot of interests as well! Cars, art, business and finance, are just a few. I am a very curious person, so I tend to have an interest in everything a little bit, sort of jack of all trades. I've got to run now, the coffee pot is boiling hot!<i>☕.oOO.oO</i>. Catch up with me through the links provided below.</h4>
 <br>
 
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<p align="center">
+	<a href="mailto:danils.kubiskins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/K-Danils"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/danils-kubiskins/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+
 ### 👉 Programming languages
 
 <p align="center"> 
@@ -52,9 +60,9 @@
   &emsp;
 </p>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align="center">
-	<a href="mailto:danils.kubiskins@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/K-Danils"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/danils-kubiskins/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+### 👉 Game Development
+<p align="center"> 
+  <a href="https://k-danils.itch.io/mine-sweeper" target="_blank">
+	  <p>MineSweeper3D - Unity 3D</p>
+  </a> 
 </p>
