@@ -60,6 +60,9 @@
   &emsp;
 </p>
 
+<a href="http://www.gutmanphoto.lv/">http://www.gutmanphoto.lv</a>
+<a href="http://www.sirsnina.lv/">http://www.sirsnina.lv</a>
+
 ### 👉 Game Development
 <p align="center"> 
   <a href="https://k-danils.itch.io/mine-sweeper" target="_blank" align="center">
