@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7882C&size=30&center=true&vCenter=true&lines=C%23+%26+.Net+Developer;BUG+KILLER+3000;CODELEX+Student;Ready+to+Learn!)](https://git.io/typing-svg"></a>
 </p>
 <hr/>
-<h5 align="center">I am a passionate software developer, with my skills wrapping around many languages, however I'm currently working with C# and .Net, as well as SQL  and I'm very interested with Flutter Development. In my free time I love to create my personal mini projects, which you should be able to find in my public repositories. Additionaly I have a lot of interests as well! Cars, art, business and finance, are just a few. I am a very curious person, so I tend to have an interest in everything a little bit, sort of jack of all trades. I've got to run now, the coffee pot is boiling hot!<i>☕.oOO.oO</i>. Catch up with me through the links provided below.</h4>
+<h5 align="center">I am a passionate software developer, with my skills wrapping around many languages, however I'm currently working with C# and .Net, as well as SQL  and I'm very interested in Flutter Development making apps for both iOs and Android. In my free time I love to create my personal mini projects, which you should be able to find in my public repositories. Additionaly I have a lot of interests as well! Cars, art, business and finance, are just a few. I am a very curious person, so I tend to have an interest in everything a little bit, sort of jack of all trades. I've got to run now, the coffee pot is boiling hot!<i>☕.oOO.oO</i>. Catch up with me through the links provided below.</h4>
 <br>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
