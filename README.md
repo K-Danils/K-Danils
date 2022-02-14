@@ -62,7 +62,7 @@
 
 ### 👉 Game Development
 <p align="center"> 
-  <a href="https://k-danils.itch.io/mine-sweeper" target="_blank">
+  <a href="https://k-danils.itch.io/mine-sweeper" target="_blank" style="text-align:center;">
 	  <p>MineSweeper3D - Unity 3D</p>
   </a> 
 </p>
