@@ -60,7 +60,7 @@
   &emsp;
 </p>
 
-<a href="http://www.gutmanphoto.lv/">http://www.gutmanphoto.lv</a>
+<a href="http://www.gutmanphoto.lv/">http://www.gutmanphoto.lv</a></br>
 <a href="http://www.sirsnina.lv/">http://www.sirsnina.lv</a>
 
 ### 👉 Game Development
