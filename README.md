@@ -1,17 +1,15 @@
 <h1 align="center">Hi , I'm Danils Kubiškins! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7882C&size=30&center=true&vCenter=true&lines=C%23+%26+.Net+Developer;BUG+KILLER+3000;CODELEX+Student;Ready+to+Learn!)](https://git.io/typing-svg"></a>
-</p>
+
 <hr/>
 <h5 align="center">
 Hello there! 👋 
-I'm a software developer currently immersed in the realms of C#, .Net, SQL, and fluttering my way into iOS and Android app creation. 
-📱💼 You'll find my casual coding experiments in public repositories – I enjoy tinkering with personal mini-projects.
-
-Beyond the screen, my interests are as diverse as cars, art, and the ins and outs of business and finance. 
-I tend to dabble a bit in everything, being a curious soul. 🚗🎨💰
-
-Got to dash – the coffee's calling! ☕.oOO.oO Connect with me through the links below.
+I'm a software developer currently immersed in the realms of C#, .Net, SQL, and fluttering my way into iOS and Android app creation. <br>
+📱💼 You'll find my casual coding experiments in public repositories – I enjoy tinkering with personal mini-projects. <br>
+<br>
+Beyond the screen, my interests are as diverse as cars, art, and the ins and outs of business and finance. <br>
+I tend to dabble a bit in everything, being a curious soul. 🚗🎨💰<br>
+<br>
+Got to dash – the coffee's calling! ☕.oOO.oO Connect with me through the links below.<br>
 
 </h5>
 <br>
