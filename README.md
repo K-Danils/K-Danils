@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Danils Kubiškins! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h5 align="center">
+<h5>
 Hello there! 👋 
 I'm a software developer currently immersed in the realms of C#, .Net, SQL, and fluttering my way into iOS and Android app creation. <br>
 📱💼 You'll find my casual coding experiments in public repositories – I enjoy tinkering with personal mini-projects. <br>
