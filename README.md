@@ -9,12 +9,6 @@ Beyond the screen, my interests are as diverse as cars, art, and the ins and out
 
 Got to dash – the coffee's calling! ☕.oOO.oO Connect with me through the links below.
 
-LinkedIn | GitHub | Twitter | Coffee Chronicles
-
-
-
-
-
 </h5>
 <br>
 
