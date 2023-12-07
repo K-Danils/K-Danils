@@ -42,7 +42,10 @@ Got to dash – the coffee's calling! ☕.oOO.oO Connect with me through the lin
 ### 👉 Game Development
 <p align="center"> 
 	<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+	<br>
+	
+</p>
+<p>My Games: </p>
   	<a href="https://k-danils.itch.io/mine-sweeper" target="_blank" align="center">
 		  MineSweeper3D - Unity 3D
  	 </a> 
-</p>
