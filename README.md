@@ -3,8 +3,8 @@
 <hr/>
 <h5>
 Hello there! 👋 
-I'm a software developer currently immersed in the realms of C#, .Net, SQL, and fluttering my way into iOS and Android app creation. <br>
-📱💼 You'll find my casual coding experiments in public repositories – I enjoy tinkering with personal mini-projects. <br>
+I'm a software developer currently immersed in the realms of web development, and fluttering my way into game development with Unity. 🎮 <br>
+You'll find my casual coding experiments in public repositories – I enjoy tinkering with personal mini-projects. <br>
 <br>
 Beyond the screen, my interests are as diverse as cars, art, and the ins and outs of business and finance. <br>
 I tend to dabble a bit in everything, being a curious soul. 🚗🎨💰<br>
