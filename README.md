@@ -29,42 +29,34 @@ Got to dash – the coffee's calling! ☕.oOO.oO Connect with me through the lin
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a> 
-  &emsp;
+ 
   <a href="https://www.java.com/en/" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a> 
-  &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
-  &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   </a>
-  &emsp;
 
 </p>
 
 ### 👉 Web Development
 <p align="center"> 
-  &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>   
-  &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   </a> 
-	&emsp; 
 <a href="https://www.php.net/" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </a> 
-	&emsp; 
 </p>
 
 ### 👉 Game Development
 <p align="center"> 
-	&emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   </a> 
